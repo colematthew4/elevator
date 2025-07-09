@@ -1,0 +1,13 @@
+{
+  "default": {
+    "formatOptions": {
+      "snippetInterface": "synchronous"
+    },
+    "requireModule": [
+      "ts-node/register"
+    ],
+    "require": [
+      "features/**/*.ts"
+    ]
+  }
+}
